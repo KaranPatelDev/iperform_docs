@@ -1,6 +1,5 @@
 # iPerform - Production Documentation
 
-> Comprehensive production-grade documentation for the iPerform CRM and Lead Management System
 
 ## 📚 Documentation Structure
 
